@@ -96,5 +96,8 @@
 			"Name": "WmfMedia",
 			"Enabled": false
 		}
+	],
+	"TargetPlatforms": [
+		"WindowsNoEditor"
 	]
 }
