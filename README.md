@@ -23,8 +23,10 @@ The controls are displayed on the title screen.
 
 ## Engineering Challenge
 
-* 
+* Defining a sonnic concept, all audio assets have to be coherent with each other. Writing the first piece of music always takes a big amount of time but once the main music theme is defined the rest of the audio assets are easier to make.
 
 
 
 ## Futere Feature
+
+* As a sound designer, I would like to get better at time management. I think I spent more time than needed on small tasks. I
