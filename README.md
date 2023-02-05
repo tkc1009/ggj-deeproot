@@ -7,7 +7,7 @@
 ## Our Team
 
 * Max Preston as Unreal Engineer and Team Leader
-* Takashi Hosoi as UI Manager and GitHub Expert
+* Takashi Hosoi as UI Engineer and Git Expert
 * Paolo Belmar as Music Composer and Sound Designer
 * Ivan Lam as 2D Artist
 
